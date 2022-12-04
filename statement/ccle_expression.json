@@ -1,0 +1,2489 @@
+[{
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001113",
+  "expression_value": 4.6340123564
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001113",
+  "expression_value": 4.8349134297
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000327",
+  "expression_value": 3.2357270598
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000327",
+  "expression_value": 3.0652276228
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000705",
+  "expression_value": 3.9392265777
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000705",
+  "expression_value": 5.6322682155
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000528",
+  "expression_value": 3.9126498649
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000528",
+  "expression_value": 6.447413892
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000769",
+  "expression_value": 4.8135246893
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000769",
+  "expression_value": 5.900866808
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000800",
+  "expression_value": 4.1850736379
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000800",
+  "expression_value": 5.9104928323
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000728",
+  "expression_value": 5.0789513414
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000728",
+  "expression_value": 6.4705368651
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000700",
+  "expression_value": 4.6920923754
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000700",
+  "expression_value": 1.8399595875
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000006",
+  "expression_value": 3.9476661568
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000006",
+  "expression_value": 5.9648606642
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001547",
+  "expression_value": 3.1602748314
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001547",
+  "expression_value": 6.2280490479
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001707",
+  "expression_value": 1.9708536543
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001707",
+  "expression_value": 5.0347439493
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000176",
+  "expression_value": 3.124328135
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000176",
+  "expression_value": 5.61970645
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000020",
+  "expression_value": 5.1009776477
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000020",
+  "expression_value": 6.9486008475
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000587",
+  "expression_value": 3.0232553523
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000587",
+  "expression_value": 6.529196268
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000785",
+  "expression_value": 3.8318772412
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000785",
+  "expression_value": 3.4114262457
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000585",
+  "expression_value": 3.5909612413
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000585",
+  "expression_value": 3.0686708107
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000627",
+  "expression_value": 3.7103931922
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000627",
+  "expression_value": 5.57167681
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000392",
+  "expression_value": 3.3561438102
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000392",
+  "expression_value": 4.7665951617
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000729",
+  "expression_value": 4.0916998341
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000729",
+  "expression_value": 6.3680698765
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000035",
+  "expression_value": 3.7366048753
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000035",
+  "expression_value": 3.7300964656
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000638",
+  "expression_value": 5.6366246205
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000638",
+  "expression_value": 5.7726774704
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000894",
+  "expression_value": 3.9754467656
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000894",
+  "expression_value": 4.9457949567
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001559",
+  "expression_value": 3.9250499647
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001559",
+  "expression_value": 5.9226735928
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000034",
+  "expression_value": 3.6369145804
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000034",
+  "expression_value": 1.8991756305
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000596",
+  "expression_value": 5.0513721017
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000596",
+  "expression_value": 5.1110313124
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000179",
+  "expression_value": 4.7639426604
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000179",
+  "expression_value": 6.1994760464
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000578",
+  "expression_value": 4.3582555867
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000578",
+  "expression_value": 5.7673899621
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000406",
+  "expression_value": 3.2555007331
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000406",
+  "expression_value": 3.0268000593
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000960",
+  "expression_value": 4.4841381312
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000960",
+  "expression_value": 7.0515896208
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000033",
+  "expression_value": 2.7761039881
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000033",
+  "expression_value": 2.6870606883
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001577",
+  "expression_value": 2.1505596766
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001577",
+  "expression_value": 2.5969351424
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000481",
+  "expression_value": 4.4019034716
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000481",
+  "expression_value": 5.3596617223
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000871",
+  "expression_value": 4.8374387149
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000871",
+  "expression_value": 5.8711043736
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000690",
+  "expression_value": 4.4548339069
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000690",
+  "expression_value": 3.0908534305
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000858",
+  "expression_value": 2.9373443922
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000858",
+  "expression_value": 5.0887352462
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000787",
+  "expression_value": 3.9717734472
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000787",
+  "expression_value": 6.4399555175
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000749",
+  "expression_value": 3.5134907456
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000749",
+  "expression_value": 5.3497898702
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000358",
+  "expression_value": 3.8042601156
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000358",
+  "expression_value": 3.1391420191
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001520",
+  "expression_value": 1.4594316186
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001520",
+  "expression_value": 5.8599695482
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000331",
+  "expression_value": 3.4528589647
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000331",
+  "expression_value": 5.2338113843
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000594",
+  "expression_value": 5.1517776547
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000594",
+  "expression_value": 5.3276873642
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000868",
+  "expression_value": 3.2203299549
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000868",
+  "expression_value": 5.678353654
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-002475",
+  "expression_value": 5.2577649686
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-002475",
+  "expression_value": 6.051807107
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000112",
+  "expression_value": 4.1538053361
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000112",
+  "expression_value": 5.7241045199
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000186",
+  "expression_value": 4.3319917782
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000186",
+  "expression_value": 5.3568480792
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000677",
+  "expression_value": 3.8135246893
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000677",
+  "expression_value": 5.6302307159
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000672",
+  "expression_value": 5.098032083
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000672",
+  "expression_value": 3.0089887832
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000530",
+  "expression_value": 5.0861893131
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000530",
+  "expression_value": 3.4032677223
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001737",
+  "expression_value": 4.2141248054
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001737",
+  "expression_value": 6.7590226394
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000002",
+  "expression_value": 2.6252704894
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000002",
+  "expression_value": 2.5533605033
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000012",
+  "expression_value": 4.1085244568
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000012",
+  "expression_value": 5.7224660245
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000945",
+  "expression_value": 5.3726039152
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000945",
+  "expression_value": 4.0798047546
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000662",
+  "expression_value": 7.2153873882
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000662",
+  "expression_value": 7.5176693881
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000751",
+  "expression_value": 3.7235585615
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000751",
+  "expression_value": 5.6667565919
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000282",
+  "expression_value": 4.7665951617
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000282",
+  "expression_value": 4.5692480299
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000261",
+  "expression_value": 3.7665951617
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000261",
+  "expression_value": 3.7092906357
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001129",
+  "expression_value": 3.764473551
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001129",
+  "expression_value": 5.2399326135
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000197",
+  "expression_value": 3.9193400824
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000197",
+  "expression_value": 6.8943327423
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000153",
+  "expression_value": 4.0470148195
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000153",
+  "expression_value": 5.098032083
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001561",
+  "expression_value": 5.0121216727
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001561",
+  "expression_value": 6.4812343495
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000681",
+  "expression_value": 4.2272789945
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000681",
+  "expression_value": 5.1350422862
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000070",
+  "expression_value": 4.9406366072
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000070",
+  "expression_value": 6.4387918526
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000166",
+  "expression_value": 2.9373443922
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000166",
+  "expression_value": 5.4272709352
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000866",
+  "expression_value": 4.3659724276
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000866",
+  "expression_value": 5.6881803586
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000076",
+  "expression_value": 4.1448621429
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000076",
+  "expression_value": 6.3471341138
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000586",
+  "expression_value": 5.5090623864
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000586",
+  "expression_value": 6.7083252071
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000394",
+  "expression_value": 4.9523335664
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000394",
+  "expression_value": 3.1489341045
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000379",
+  "expression_value": 3.9486008475
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000379",
+  "expression_value": 6.8613350902
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000937",
+  "expression_value": 4.3805909343
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000937",
+  "expression_value": 5.8789705102
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000326",
+  "expression_value": 4.0036022367
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000326",
+  "expression_value": 3.3291235963
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000901",
+  "expression_value": 3.8206895606
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000901",
+  "expression_value": 5.988911865
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000816",
+  "expression_value": 4.2448870591
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000816",
+  "expression_value": 4.7463127664
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000641",
+  "expression_value": 3.7990873061
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000641",
+  "expression_value": 5.0622080776
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000511",
+  "expression_value": 4.9551267813
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000511",
+  "expression_value": 1.7527485914
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000975",
+  "expression_value": 3.3617683594
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000975",
+  "expression_value": 6.6151514179
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000109",
+  "expression_value": 4.1440463696
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000109",
+  "expression_value": 3.2234225499
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000712",
+  "expression_value": 4.5759173611
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000712",
+  "expression_value": 5.1521834191
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000523",
+  "expression_value": 4.672425342
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000523",
+  "expression_value": 6.6832753729
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000890",
+  "expression_value": 4.0197019144
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000890",
+  "expression_value": 6.8153192458
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000562",
+  "expression_value": 3.6380738372
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000562",
+  "expression_value": 4.3334237337
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001669",
+  "expression_value": 4.1407786558
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001669",
+  "expression_value": 6.0938136734
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000399",
+  "expression_value": 5.8032270364
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000399",
+  "expression_value": 5.3026846141
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000770",
+  "expression_value": 4.2357270598
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000770",
+  "expression_value": 5.8229850185
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000710",
+  "expression_value": 3.1076878693
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000710",
+  "expression_value": 5.6979405826
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000066",
+  "expression_value": 4.04176865
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000066",
+  "expression_value": 6.4429434958
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000519",
+  "expression_value": 3.949534933
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000519",
+  "expression_value": 5.6226375665
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000314",
+  "expression_value": 4.1723274917
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000314",
+  "expression_value": 4.9174317554
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001977",
+  "expression_value": 4.0170310805
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001977",
+  "expression_value": 6.7414669864
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000498",
+  "expression_value": 3.7907720379
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000498",
+  "expression_value": 5.2820690752
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000893",
+  "expression_value": 3.901108243
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000893",
+  "expression_value": 6.1013979522
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001618",
+  "expression_value": 2.5235619561
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001618",
+  "expression_value": 5.2433644257
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001993",
+  "expression_value": 4.9731520379
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001993",
+  "expression_value": 4.8078700783
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000187",
+  "expression_value": 3.9439213266
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000187",
+  "expression_value": 5.5459683691
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000569",
+  "expression_value": 2.8718436485
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000569",
+  "expression_value": 6.3967760108
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000924",
+  "expression_value": 3.4262647547
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000924",
+  "expression_value": 3.4316229597
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000639",
+  "expression_value": 5.1771205028
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000639",
+  "expression_value": 5.3226492621
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000590",
+  "expression_value": 3.1127001327
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000590",
+  "expression_value": 4.7328118721
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000553",
+  "expression_value": 3.6622054997
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000553",
+  "expression_value": 3.4489009511
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000084",
+  "expression_value": 4.7009944942
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000084",
+  "expression_value": 6.7975318396
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000339",
+  "expression_value": 5.4242502861
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000339",
+  "expression_value": 2.0772429989
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000218",
+  "expression_value": 4.0729632716
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000218",
+  "expression_value": 4.8889867212
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000789",
+  "expression_value": 5.6870606883
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000789",
+  "expression_value": 3.1554254317
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000032",
+  "expression_value": 4.8534967037
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000032",
+  "expression_value": 7.0825748663
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000439",
+  "expression_value": 3.2234225499
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000439",
+  "expression_value": 3.3132458518
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000670",
+  "expression_value": 3.6473145095
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000670",
+  "expression_value": 5.2566332951
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000263",
+  "expression_value": 3.9049657187
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000263",
+  "expression_value": 4.8713508406
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000299",
+  "expression_value": 4.2905718509
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000299",
+  "expression_value": 6.4617249915
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001735",
+  "expression_value": 4.3341391788
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001735",
+  "expression_value": 5.8928767001
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000551",
+  "expression_value": 3.9250499647
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000551",
+  "expression_value": 3.6564963706
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000744",
+  "expression_value": 4.3398500029
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000744",
+  "expression_value": 4.8191572237
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000336",
+  "expression_value": 2.648465443
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000336",
+  "expression_value": 6.4412842719
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001557",
+  "expression_value": 4.673556424
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001557",
+  "expression_value": 5.2129583627
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000525",
+  "expression_value": 4.3798981635
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000525",
+  "expression_value": 4.5360529002
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000853",
+  "expression_value": 4.9657842847
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000853",
+  "expression_value": 5.496973581
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000675",
+  "expression_value": 5.3746917521
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000675",
+  "expression_value": 5.928370323
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001647",
+  "expression_value": 4.0798047546
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001647",
+  "expression_value": 5.0276848769
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000080",
+  "expression_value": 2.5335633482
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000080",
+  "expression_value": 5.9340446471
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000146",
+  "expression_value": 3.846994687
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000146",
+  "expression_value": 2.7136958148
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000891",
+  "expression_value": 3.2555007331
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000891",
+  "expression_value": 3.0461417816
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000851",
+  "expression_value": 4.3785116233
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000851",
+  "expression_value": 2.8339020767
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000506",
+  "expression_value": 4.6987741089
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000506",
+  "expression_value": 3.9945797242
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000603",
+  "expression_value": 7.7950655827
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000603",
+  "expression_value": 4.0045013922
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000983",
+  "expression_value": 4.1906148602
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000983",
+  "expression_value": 3.516015147
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000369",
+  "expression_value": 4.8273109439
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000369",
+  "expression_value": 6.7139706924
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000432",
+  "expression_value": 3.7697717392
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000432",
+  "expression_value": 5.7596884884
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001386",
+  "expression_value": 3.8559896973
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001386",
+  "expression_value": 4.3327079336
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000129",
+  "expression_value": 4.4032677223
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000129",
+  "expression_value": 5.8434814254
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000434",
+  "expression_value": 3.3519109611
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000434",
+  "expression_value": 3.1127001327
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000514",
+  "expression_value": 4.1043366598
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000514",
+  "expression_value": 4.5582676341
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000065",
+  "expression_value": 3.496973581
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000065",
+  "expression_value": 6.1890338244
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000414",
+  "expression_value": 3.3391373849
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000414",
+  "expression_value": 4.4581194812
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000386",
+  "expression_value": 4.5153844606
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000386",
+  "expression_value": 3.3219280949
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000665",
+  "expression_value": 3.1763227726
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000665",
+  "expression_value": 2.748461233
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000803",
+  "expression_value": 4.3736482113
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000803",
+  "expression_value": 5.2024177216
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001549",
+  "expression_value": 4.2555007331
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001549",
+  "expression_value": 6.0795914486
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000706",
+  "expression_value": 3.6357543913
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000706",
+  "expression_value": 2.8196681835
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000737",
+  "expression_value": 7.240123484
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000737",
+  "expression_value": 3.5273206079
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001573",
+  "expression_value": 2.9107326619
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001573",
+  "expression_value": 2.9429835982
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000604",
+  "expression_value": 1.9523335664
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000604",
+  "expression_value": 5.5487448599
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000195",
+  "expression_value": 3.708187236
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000195",
+  "expression_value": 6.1110313124
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000004",
+  "expression_value": 4.2349610948
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000004",
+  "expression_value": 5.788163657
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000251",
+  "expression_value": 5.2055489112
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000251",
+  "expression_value": 5.468583317
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000241",
+  "expression_value": 3.374343989
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000241",
+  "expression_value": 5.5119107487
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000405",
+  "expression_value": 3.2326607568
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000405",
+  "expression_value": 3.846994687
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000951",
+  "expression_value": 2.8639384504
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000951",
+  "expression_value": 6.3192205025
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001036",
+  "expression_value": 3.8328900142
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001036",
+  "expression_value": 4.8928767001
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000826",
+  "expression_value": 3.5310694927
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000826",
+  "expression_value": 6.4801035208
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000092",
+  "expression_value": 4.3341391788
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000092",
+  "expression_value": 5.1574479963
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000669",
+  "expression_value": 4.8728287595
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000669",
+  "expression_value": 3.8972404256
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000648",
+  "expression_value": 3.4369613378
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000648",
+  "expression_value": 6.0141320865
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001106",
+  "expression_value": 3.846994687
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001106",
+  "expression_value": 7.502075956
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000367",
+  "expression_value": 3.4114262457
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000367",
+  "expression_value": 6.3128829553
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000589",
+  "expression_value": 3.3276873642
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000589",
+  "expression_value": 3.9364023777
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000628",
+  "expression_value": 2.8257856275
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000628",
+  "expression_value": 6.3809371949
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000645",
+  "expression_value": 3.0925457415
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000645",
+  "expression_value": 6.543805176
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000086",
+  "expression_value": 3.3490821464
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000086",
+  "expression_value": 1.9671686075
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000942",
+  "expression_value": 4.260025656
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000942",
+  "expression_value": 3.5957423395
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000264",
+  "expression_value": 4.6011022034
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000264",
+  "expression_value": 3.593353771
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000922",
+  "expression_value": 4.4995270242
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000922",
+  "expression_value": 6.9300276409
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000918",
+  "expression_value": 5.0058490757
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000918",
+  "expression_value": 6.5727381169
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000297",
+  "expression_value": 4.1707262761
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000297",
+  "expression_value": 4.9841335945
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000362",
+  "expression_value": 3.2705289424
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000362",
+  "expression_value": 5.8943327423
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000843",
+  "expression_value": 4.6211727527
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000843",
+  "expression_value": 5.6729909938
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000840",
+  "expression_value": 3.7059779017
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000840",
+  "expression_value": 5.9555917918
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001656",
+  "expression_value": 3.9855004303
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001656",
+  "expression_value": 5.1268077031
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000045",
+  "expression_value": 2.9486008475
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000045",
+  "expression_value": 6.1397559755
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000912",
+  "expression_value": 4.5533605033
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000912",
+  "expression_value": 2.6369145804
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000508",
+  "expression_value": 5.7221927609
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000508",
+  "expression_value": 5.6780719051
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000636",
+  "expression_value": 4.8063240574
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000636",
+  "expression_value": 6.3964335313
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000667",
+  "expression_value": 2.8399595875
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000667",
+  "expression_value": 2.1407786558
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000387",
+  "expression_value": 4.0452682151
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000387",
+  "expression_value": 4.0763880685
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000718",
+  "expression_value": 4.1026581314
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000718",
+  "expression_value": 4.6870606883
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001736",
+  "expression_value": 4.5216789516
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001736",
+  "expression_value": 5.6630599237
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000747",
+  "expression_value": 4.9809392661
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000747",
+  "expression_value": 4.3497898702
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000438",
+  "expression_value": 5.3960909704
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000438",
+  "expression_value": 5.1477137224
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000021",
+  "expression_value": 2.9297909977
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000021",
+  "expression_value": 4.1554254317
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000980",
+  "expression_value": 4.321206567
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000980",
+  "expression_value": 5.1013979522
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000845",
+  "expression_value": 4.1505596766
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000845",
+  "expression_value": 3.0
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000698",
+  "expression_value": 7.4825256408
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000698",
+  "expression_value": 5.7642081301
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000852",
+  "expression_value": 3.658782734
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000852",
+  "expression_value": 4.7235585615
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000448",
+  "expression_value": 2.8155754289
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000448",
+  "expression_value": 4.8762713606
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000301",
+  "expression_value": 3.5447326559
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000301",
+  "expression_value": 3.4436066515
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000867",
+  "expression_value": 2.2265085298
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000867",
+  "expression_value": 5.1807048402
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000072",
+  "expression_value": 2.9335726383
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000072",
+  "expression_value": 5.9777378492
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000766",
+  "expression_value": 3.648465443
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000766",
+  "expression_value": 4.6403895601
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000343",
+  "expression_value": 3.7506065048
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000343",
+  "expression_value": 1.9671686075
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000774",
+  "expression_value": 3.4750848829
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000774",
+  "expression_value": 5.3034154627
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000372",
+  "expression_value": 3.4815572807
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000372",
+  "expression_value": 7.1618876824
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000733",
+  "expression_value": 3.8972404256
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000733",
+  "expression_value": 6.0699598905
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000780",
+  "expression_value": 4.8323837165
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000780",
+  "expression_value": 7.4025857582
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001555",
+  "expression_value": 4.0703893279
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001555",
+  "expression_value": 6.5190071478
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000921",
+  "expression_value": 4.9514012917
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000921",
+  "expression_value": 3.7886857106
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000790",
+  "expression_value": 4.1969217338
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000790",
+  "expression_value": 6.3746917521
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000602",
+  "expression_value": 3.7430840555
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000602",
+  "expression_value": 6.3519109611
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000156",
+  "expression_value": 4.078097423
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000156",
+  "expression_value": 6.9589586429
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000482",
+  "expression_value": 4.1992797213
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000482",
+  "expression_value": 4.0071955014
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000870",
+  "expression_value": 5.0751047222
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000870",
+  "expression_value": 5.6281903346
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000874",
+  "expression_value": 2.8579809951
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000874",
+  "expression_value": 5.2883585622
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000779",
+  "expression_value": 2.9836776947
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000779",
+  "expression_value": 5.5659017668
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001484",
+  "expression_value": 4.658782734
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001484",
+  "expression_value": 5.7805725743
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000101",
+  "expression_value": 4.4242502861
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000101",
+  "expression_value": 6.8766397239
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000290",
+  "expression_value": 4.4222330007
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000290",
+  "expression_value": 4.2979250525
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000492",
+  "expression_value": 3.9097731041
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000492",
+  "expression_value": 6.5476657484
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001556",
+  "expression_value": 5.2753795963
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001556",
+  "expression_value": 3.4541758932
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000964",
+  "expression_value": 3.8718436485
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000964",
+  "expression_value": 6.282254452
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000378",
+  "expression_value": 3.770829046
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000378",
+  "expression_value": 5.5692480299
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000575",
+  "expression_value": 4.430285273
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000575",
+  "expression_value": 3.9335726383
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000767",
+  "expression_value": 4.6707270545
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000767",
+  "expression_value": 5.5864645259
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000451",
+  "expression_value": 3.6948801928
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000451",
+  "expression_value": 6.5938019289
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000454",
+  "expression_value": 4.5999128422
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000454",
+  "expression_value": 4.2234225499
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000161",
+  "expression_value": 3.6099912952
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000161",
+  "expression_value": 4.4982508675
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000395",
+  "expression_value": 4.1898245589
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000395",
+  "expression_value": 3.2986583156
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000916",
+  "expression_value": 4.3722556484
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000916",
+  "expression_value": 5.0356239097
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000295",
+  "expression_value": 3.1731274335
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000295",
+  "expression_value": 5.413458688
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001485",
+  "expression_value": 2.8318772412
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001485",
+  "expression_value": 5.2292033579
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000292",
+  "expression_value": 3.8972404256
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000292",
+  "expression_value": 7.1164479355
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000837",
+  "expression_value": 4.4672794805
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000837",
+  "expression_value": 5.6191195115
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000463",
+  "expression_value": 3.2539892662
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000463",
+  "expression_value": 4.7554217347
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001992",
+  "expression_value": 4.3645724323
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001992",
+  "expression_value": 5.4379600883
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000064",
+  "expression_value": 3.8836208163
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000064",
+  "expression_value": 5.0578834489
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000861",
+  "expression_value": 4.8160876586
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000861",
+  "expression_value": 2.7782085764
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000563",
+  "expression_value": 4.3319917782
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000563",
+  "expression_value": 2.8559896973
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000355",
+  "expression_value": 4.7813597135
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000355",
+  "expression_value": 4.6998847287
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000757",
+  "expression_value": 3.8073549221
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000757",
+  "expression_value": 4.1110313124
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000447",
+  "expression_value": 4.1366835777
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000447",
+  "expression_value": 3.5273206079
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000319",
+  "expression_value": 3.6667565919
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000319",
+  "expression_value": 2.1699250014
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000198",
+  "expression_value": 3.0583164956
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000198",
+  "expression_value": 6.4462562299
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000104",
+  "expression_value": 5.0053999877
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000104",
+  "expression_value": 6.9322738171
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000892",
+  "expression_value": 3.4581194812
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000892",
+  "expression_value": 4.7718855785
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000904",
+  "expression_value": 4.4229057426
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000904",
+  "expression_value": 6.5484366247
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000610",
+  "expression_value": 4.194559886
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000610",
+  "expression_value": 6.546585829
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000081",
+  "expression_value": 4.1818976431
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000081",
+  "expression_value": 5.8178790318
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000416",
+  "expression_value": 5.8344078418
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000416",
+  "expression_value": 3.3248106034
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000752",
+  "expression_value": 4.0098845889
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000752",
+  "expression_value": 6.0161397027
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000731",
+  "expression_value": 3.6380738372
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000731",
+  "expression_value": 6.1612830745
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000875",
+  "expression_value": 3.846994687
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000875",
+  "expression_value": 2.9448584458
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000442",
+  "expression_value": 3.5496691707
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000442",
+  "expression_value": 3.9467308601
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001558",
+  "expression_value": 4.6490405656
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001558",
+  "expression_value": 6.0554993658
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000841",
+  "expression_value": 3.5348086612
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000841",
+  "expression_value": 7.0425349055
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001613",
+  "expression_value": 4.2149019102
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001613",
+  "expression_value": 5.7750505415
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000860",
+  "expression_value": 4.9699332747
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000860",
+  "expression_value": 3.1890338244
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000074",
+  "expression_value": 3.1259816539
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000074",
+  "expression_value": 6.4525295447
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001562",
+  "expression_value": 4.1834865145
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001562",
+  "expression_value": 6.8777442499
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000335",
+  "expression_value": 4.2555007331
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000335",
+  "expression_value": 4.8986920726
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000995",
+  "expression_value": 4.3103401206
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000995",
+  "expression_value": 5.0878871009
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000373",
+  "expression_value": 3.1276332797
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000373",
+  "expression_value": 5.9090530168
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000953",
+  "expression_value": 5.3715588626
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000953",
+  "expression_value": 7.1432301348
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-002059",
+  "expression_value": 7.24060055
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-002059",
+  "expression_value": 7.0457050645
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000929",
+  "expression_value": 4.0840642648
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000929",
+  "expression_value": 5.8892301524
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000981",
+  "expression_value": 4.1399605695
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000981",
+  "expression_value": 6.4566418986
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000311",
+  "expression_value": 3.4114262457
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000311",
+  "expression_value": 5.1085244568
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000390",
+  "expression_value": 3.7463127664
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000390",
+  "expression_value": 5.3902549563
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000496",
+  "expression_value": 4.0170310805
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000496",
+  "expression_value": 2.3219280949
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000062",
+  "expression_value": 3.4369613378
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000062",
+  "expression_value": 2.5921580021
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000878",
+  "expression_value": 4.0505016974
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000878",
+  "expression_value": 5.3923174228
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-002061",
+  "expression_value": 3.9606970393
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-002061",
+  "expression_value": 2.2809563138
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000938",
+  "expression_value": 4.9364023777
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000938",
+  "expression_value": 6.4842992812
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000462",
+  "expression_value": 4.2303567451
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000462",
+  "expression_value": 6.7741281443
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000515",
+  "expression_value": 5.9436869516
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000515",
+  "expression_value": 6.7728094102
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000825",
+  "expression_value": 2.8499992595
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000825",
+  "expression_value": 4.3736482113
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000743",
+  "expression_value": 4.2426025059
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000743",
+  "expression_value": 4.3722556484
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000813",
+  "expression_value": 2.3391373849
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000813",
+  "expression_value": 4.9877756161
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000168",
+  "expression_value": 3.2555007331
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000168",
+  "expression_value": 3.3476656563
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000257",
+  "expression_value": 5.5570424153
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000257",
+  "expression_value": 6.4124428248
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000521",
+  "expression_value": 3.4528589647
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000521",
+  "expression_value": 5.5680321048
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000029",
+  "expression_value": 4.6524864949
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000029",
+  "expression_value": 6.4477444821
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000150",
+  "expression_value": 4.1043366598
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000150",
+  "expression_value": 6.6332858873
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001634",
+  "expression_value": 2.9560566524
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001634",
+  "expression_value": 5.0378214654
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000869",
+  "expression_value": 4.1333991254
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000869",
+  "expression_value": 4.9864109353
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000431",
+  "expression_value": 4.770829046
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000431",
+  "expression_value": 6.5867647434
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000151",
+  "expression_value": 5.9128893362
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000151",
+  "expression_value": 6.7318620611
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000703",
+  "expression_value": 4.9202933002
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000703",
+  "expression_value": 5.7120454486
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000113",
+  "expression_value": 3.3248106034
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000113",
+  "expression_value": 6.448570626
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000337",
+  "expression_value": 4.4469178649
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000337",
+  "expression_value": 5.2831809789
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000321",
+  "expression_value": 3.037382222
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000321",
+  "expression_value": 5.7306399559
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000444",
+  "expression_value": 5.1937717434
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000444",
+  "expression_value": 4.1456774552
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000298",
+  "expression_value": 4.1333991254
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000298",
+  "expression_value": 5.264536431
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000346",
+  "expression_value": 3.9873208659
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000346",
+  "expression_value": 6.340562269
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000886",
+  "expression_value": 4.8703647196
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000886",
+  "expression_value": 5.9627803538
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000888",
+  "expression_value": 3.8176232575
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000888",
+  "expression_value": 4.1235006644
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000659",
+  "expression_value": 3.486714373
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000659",
+  "expression_value": 5.0188121857
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000030",
+  "expression_value": 3.8728287595
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000030",
+  "expression_value": 6.735115956
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000775",
+  "expression_value": 5.5831580039
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000775",
+  "expression_value": 5.5972331891
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000559",
+  "expression_value": 4.3847405873
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000559",
+  "expression_value": 6.6680340041
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000510",
+  "expression_value": 4.2615308152
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000510",
+  "expression_value": 4.6473145095
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000844",
+  "expression_value": 4.61117238
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000844",
+  "expression_value": 4.344828497
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000925",
+  "expression_value": 4.5903624885
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000925",
+  "expression_value": 4.4640147245
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000143",
+  "expression_value": 4.7612852734
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000143",
+  "expression_value": 5.0806576633
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001574",
+  "expression_value": 2.4032677223
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001574",
+  "expression_value": 5.3926608807
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000382",
+  "expression_value": 3.9597701552
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000382",
+  "expression_value": 5.1890338244
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000695",
+  "expression_value": 2.8499992595
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000695",
+  "expression_value": 2.9335726383
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001560",
+  "expression_value": 4.1235006644
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001560",
+  "expression_value": 6.3157835746
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000005",
+  "expression_value": 4.8875252707
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000005",
+  "expression_value": 5.4545049376
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000015",
+  "expression_value": 2.7048719645
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000015",
+  "expression_value": 2.570462931
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000487",
+  "expression_value": 3.5422580498
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000487",
+  "expression_value": 5.5801454844
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000122",
+  "expression_value": 3.6194130106
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000122",
+  "expression_value": 3.7420062109
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000782",
+  "expression_value": 4.8434814254
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000782",
+  "expression_value": 6.3001237246
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000791",
+  "expression_value": 6.0667350287
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000791",
+  "expression_value": 6.0812970141
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-001075",
+  "expression_value": 3.3219280949
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-001075",
+  "expression_value": 5.2971914166
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000105",
+  "expression_value": 5.0827877317
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000105",
+  "expression_value": 5.8933622108
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000557",
+  "expression_value": 3.589763487
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000557",
+  "expression_value": 3.1026581314
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000900",
+  "expression_value": 4.8027102193
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000900",
+  "expression_value": 4.9786532649
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000666",
+  "expression_value": 4.2555007331
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000666",
+  "expression_value": 5.1160319934
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000872",
+  "expression_value": 4.0531113365
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000872",
+  "expression_value": 4.5329402884
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000130",
+  "expression_value": 4.9293175949
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000130",
+  "expression_value": 7.3146965257
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000121",
+  "expression_value": 3.6780719051
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000121",
+  "expression_value": 5.4372943315
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000781",
+  "expression_value": 4.1076878693
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000781",
+  "expression_value": 4.4802651221
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000059",
+  "expression_value": 4.5945485496
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000059",
+  "expression_value": 6.6876206321
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000920",
+  "expression_value": 4.7787342441
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000920",
+  "expression_value": 6.2211037254
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000294",
+  "expression_value": 5.182295025
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000294",
+  "expression_value": 5.6064422281
+}, {
+  "gene_symbol": "KRAS",
+  "DepMap_ID": "ACH-000830",
+  "expression_value": 4.5993177937
+}, {
+  "gene_symbol": "TP53",
+  "DepMap_ID": "ACH-000830",
+  "expression_value": 6.8772534539
+}]
