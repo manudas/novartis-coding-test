@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+
+  &-filters {
+    display: flex;
+    flex-direction: row;
+    font-size: calc(10px + 2vmin);
+
+    padding: 10px;
+    justify-content: space-evenly;
+  }
+
+  &-filter {
+    flex-grow: 0.3;
+  }
+}

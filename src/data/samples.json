@@ -1,0 +1,1661 @@
+[{
+  "DepMap_ID": "ACH-000032",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-000033",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000064",
+  "lineage": "lung",
+  "lineage_subtype": null
+}, {
+  "DepMap_ID": "ACH-000076",
+  "lineage": "blood",
+  "lineage_subtype": "CML"
+}, {
+  "DepMap_ID": "ACH-000084",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000122",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-000130",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-000166",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000179",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000241",
+  "lineage": "blood",
+  "lineage_subtype": "CML"
+}, {
+  "DepMap_ID": "ACH-000297",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000321",
+  "lineage": "blood",
+  "lineage_subtype": "CML"
+}, {
+  "DepMap_ID": "ACH-000462",
+  "lineage": "blood",
+  "lineage_subtype": "CML"
+}, {
+  "DepMap_ID": "ACH-000492",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-000523",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000553",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000602",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000645",
+  "lineage": "lung",
+  "lineage_subtype": "mesothelioma"
+}, {
+  "DepMap_ID": "ACH-000710",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000728",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-000737",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000813",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000837",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000845",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000870",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000904",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-001037",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-001047",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-001078",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-001079",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-001088",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-001230",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-001234",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-001520",
+  "lineage": "blood",
+  "lineage_subtype": "unspecified_leukemia"
+}, {
+  "DepMap_ID": "ACH-001547",
+  "lineage": "lung",
+  "lineage_subtype": "mesothelioma"
+}, {
+  "DepMap_ID": "ACH-001555",
+  "lineage": "lung",
+  "lineage_subtype": "mesothelioma"
+}, {
+  "DepMap_ID": "ACH-001556",
+  "lineage": "lung",
+  "lineage_subtype": "mesothelioma"
+}, {
+  "DepMap_ID": "ACH-001557",
+  "lineage": "lung",
+  "lineage_subtype": "mesothelioma"
+}, {
+  "DepMap_ID": "ACH-001558",
+  "lineage": "lung",
+  "lineage_subtype": "mesothelioma"
+}, {
+  "DepMap_ID": "ACH-001559",
+  "lineage": "lung",
+  "lineage_subtype": "mesothelioma"
+}, {
+  "DepMap_ID": "ACH-001560",
+  "lineage": "lung",
+  "lineage_subtype": "mesothelioma"
+}, {
+  "DepMap_ID": "ACH-001561",
+  "lineage": "lung",
+  "lineage_subtype": "mesothelioma"
+}, {
+  "DepMap_ID": "ACH-001562",
+  "lineage": "lung",
+  "lineage_subtype": "mesothelioma"
+}, {
+  "DepMap_ID": "ACH-001573",
+  "lineage": "blood",
+  "lineage_subtype": "CML"
+}, {
+  "DepMap_ID": "ACH-001577",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-001613",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-001618",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-001634",
+  "lineage": "blood",
+  "lineage_subtype": "CLL"
+}, {
+  "DepMap_ID": "ACH-001647",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-001656",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-001707",
+  "lineage": "blood",
+  "lineage_subtype": "CLL"
+}, {
+  "DepMap_ID": "ACH-001977",
+  "lineage": "lung",
+  "lineage_subtype": "mesothelioma"
+}, {
+  "DepMap_ID": "ACH-001992",
+  "lineage": "lung",
+  "lineage_subtype": "mesothelioma"
+}, {
+  "DepMap_ID": "ACH-001993",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-002061",
+  "lineage": "blood",
+  "lineage_subtype": "CML"
+}, {
+  "DepMap_ID": "ACH-002333",
+  "lineage": "lung",
+  "lineage_subtype": null
+}, {
+  "DepMap_ID": "ACH-002475",
+  "lineage": "blood",
+  "lineage_subtype": "CML"
+}, {
+  "DepMap_ID": "ACH-000002",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000004",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000005",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000006",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000012",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000015",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000020",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-000021",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000029",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000030",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000034",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000035",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000045",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000059",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-000062",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000065",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000066",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000070",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-000072",
+  "lineage": "blood",
+  "lineage_subtype": "CML"
+}, {
+  "DepMap_ID": "ACH-000074",
+  "lineage": "blood",
+  "lineage_subtype": "CML"
+}, {
+  "DepMap_ID": "ACH-000080",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000081",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000086",
+  "lineage": "lung",
+  "lineage_subtype": "mesothelioma"
+}, {
+  "DepMap_ID": "ACH-000092",
+  "lineage": "lung",
+  "lineage_subtype": "mesothelioma"
+}, {
+  "DepMap_ID": "ACH-000101",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-000104",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-000105",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-000109",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000112",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000113",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000121",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000129",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000143",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000146",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000150",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000151",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-000153",
+  "lineage": "lung",
+  "lineage_subtype": "mesothelioma"
+}, {
+  "DepMap_ID": "ACH-000156",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-000161",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000168",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000176",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000186",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000187",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000195",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000197",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-000198",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000218",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000251",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000257",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000261",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000263",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000264",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000282",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000290",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000292",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000294",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000295",
+  "lineage": "blood",
+  "lineage_subtype": "CML"
+}, {
+  "DepMap_ID": "ACH-000298",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000299",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000301",
+  "lineage": "blood",
+  "lineage_subtype": "CML"
+}, {
+  "DepMap_ID": "ACH-000309",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000311",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000314",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000319",
+  "lineage": "lung",
+  "lineage_subtype": "mesothelioma"
+}, {
+  "DepMap_ID": "ACH-000326",
+  "lineage": "blood",
+  "lineage_subtype": "CML"
+}, {
+  "DepMap_ID": "ACH-000327",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000331",
+  "lineage": "lung",
+  "lineage_subtype": "mesothelioma"
+}, {
+  "DepMap_ID": "ACH-000335",
+  "lineage": "lung",
+  "lineage_subtype": "mesothelioma"
+}, {
+  "DepMap_ID": "ACH-000336",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000337",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000339",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000343",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000346",
+  "lineage": "blood",
+  "lineage_subtype": "CLL"
+}, {
+  "DepMap_ID": "ACH-000355",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000358",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000362",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000367",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000369",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000372",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-000373",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000378",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000379",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000382",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000386",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000387",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000390",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000392",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000394",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000395",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000399",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000405",
+  "lineage": "blood",
+  "lineage_subtype": "CLL"
+}, {
+  "DepMap_ID": "ACH-000406",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000414",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000416",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000431",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000432",
+  "lineage": "blood",
+  "lineage_subtype": "CML"
+}, {
+  "DepMap_ID": "ACH-000434",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000438",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000439",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000442",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000444",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000447",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000448",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000451",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000454",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000463",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000481",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000482",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000487",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000496",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000498",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000506",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000508",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000510",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000511",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000514",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000515",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000519",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-000521",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000525",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000528",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000530",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000551",
+  "lineage": "blood",
+  "lineage_subtype": "CML"
+}, {
+  "DepMap_ID": "ACH-000557",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000559",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000562",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000563",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000569",
+  "lineage": "lung",
+  "lineage_subtype": "mesothelioma"
+}, {
+  "DepMap_ID": "ACH-000575",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000578",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000585",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000586",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000587",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000589",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000590",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000594",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000596",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000603",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000604",
+  "lineage": "blood",
+  "lineage_subtype": "CML"
+}, {
+  "DepMap_ID": "ACH-000610",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000627",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000628",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000636",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-000638",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000639",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000641",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000648",
+  "lineage": "lung",
+  "lineage_subtype": "mesothelioma"
+}, {
+  "DepMap_ID": "ACH-000659",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000662",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000665",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000666",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000667",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000669",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000670",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000672",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000675",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000677",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000681",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000690",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000695",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000698",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000700",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000703",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000705",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000706",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000712",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000718",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000727",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000729",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000731",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000733",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000743",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000744",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000747",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000749",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000751",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000752",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000757",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000766",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000767",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000769",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000770",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-000774",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000775",
+  "lineage": "lung",
+  "lineage_subtype": "lung_carcinoid"
+}, {
+  "DepMap_ID": "ACH-000779",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000780",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000781",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000782",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-000785",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000787",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000789",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000790",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000791",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000795",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-000800",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000803",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000816",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000825",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000826",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000830",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000840",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000841",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000843",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000844",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000851",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000852",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000853",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000858",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000860",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000861",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000866",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000867",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000868",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000869",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000871",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000872",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000874",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-000875",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000878",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000886",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000888",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000890",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000891",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000892",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000893",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000894",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000900",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000901",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000912",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-000916",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000918",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-000920",
+  "lineage": "blood",
+  "lineage_subtype": "CML"
+}, {
+  "DepMap_ID": "ACH-000921",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000922",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-000924",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000925",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000929",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000937",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-000938",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-000942",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-000945",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000951",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000953",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-000960",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-000964",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-000975",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000980",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-000981",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-000983",
+  "lineage": "blood",
+  "lineage_subtype": "CML"
+}, {
+  "DepMap_ID": "ACH-000995",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-001036",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-001049",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-001075",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-001106",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-001113",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-001127",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-001129",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-001136",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-001137",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-001138",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-001233",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-001362",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-001363",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-001364",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-001365",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-001386",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-001417",
+  "lineage": "lung",
+  "lineage_subtype": "lung_carcinoid"
+}, {
+  "DepMap_ID": "ACH-001452",
+  "lineage": "blood",
+  "lineage_subtype": "hairy_cell_leukemia"
+}, {
+  "DepMap_ID": "ACH-001484",
+  "lineage": "blood",
+  "lineage_subtype": "unspecified_leukemia"
+}, {
+  "DepMap_ID": "ACH-001485",
+  "lineage": "blood",
+  "lineage_subtype": "unspecified_leukemia"
+}, {
+  "DepMap_ID": "ACH-001489",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-001490",
+  "lineage": "lung",
+  "lineage_subtype": "lung_carcinoma"
+}, {
+  "DepMap_ID": "ACH-001549",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-001574",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-001591",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-001599",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-001639",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-001669",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-001735",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-001736",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-001737",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-001738",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-001958",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-002051",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-002052",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-002058",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-002059",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-002077",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-002089",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-002095",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-002101",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-002102",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-002122",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-002123",
+  "lineage": "lung",
+  "lineage_subtype": "mesothelioma"
+}, {
+  "DepMap_ID": "ACH-002124",
+  "lineage": "lung",
+  "lineage_subtype": "mesothelioma"
+}, {
+  "DepMap_ID": "ACH-002125",
+  "lineage": "lung",
+  "lineage_subtype": "mesothelioma"
+}, {
+  "DepMap_ID": "ACH-002126",
+  "lineage": "lung",
+  "lineage_subtype": "mesothelioma"
+}, {
+  "DepMap_ID": "ACH-002127",
+  "lineage": "lung",
+  "lineage_subtype": "mesothelioma"
+}, {
+  "DepMap_ID": "ACH-002128",
+  "lineage": "lung",
+  "lineage_subtype": "mesothelioma"
+}, {
+  "DepMap_ID": "ACH-002129",
+  "lineage": "lung",
+  "lineage_subtype": "mesothelioma"
+}, {
+  "DepMap_ID": "ACH-002130",
+  "lineage": "lung",
+  "lineage_subtype": "mesothelioma"
+}, {
+  "DepMap_ID": "ACH-002131",
+  "lineage": "lung",
+  "lineage_subtype": "mesothelioma"
+}, {
+  "DepMap_ID": "ACH-002132",
+  "lineage": "lung",
+  "lineage_subtype": "mesothelioma"
+}, {
+  "DepMap_ID": "ACH-002133",
+  "lineage": "lung",
+  "lineage_subtype": "mesothelioma"
+}, {
+  "DepMap_ID": "ACH-002134",
+  "lineage": "lung",
+  "lineage_subtype": "mesothelioma"
+}, {
+  "DepMap_ID": "ACH-002135",
+  "lineage": "lung",
+  "lineage_subtype": "mesothelioma"
+}, {
+  "DepMap_ID": "ACH-002136",
+  "lineage": "lung",
+  "lineage_subtype": "mesothelioma"
+}, {
+  "DepMap_ID": "ACH-002138",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-002144",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-002145",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-002154",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-002156",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-002157",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-002158",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-002169",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-002170",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-002171",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-002172",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-002173",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-002174",
+  "lineage": "lung",
+  "lineage_subtype": "lung_carcinoid"
+}, {
+  "DepMap_ID": "ACH-002175",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-002176",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-002177",
+  "lineage": "lung",
+  "lineage_subtype": "lung_carcinoid"
+}, {
+  "DepMap_ID": "ACH-002184",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-002193",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-002196",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-002197",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-002209",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-002210",
+  "lineage": "blood",
+  "lineage_subtype": null
+}, {
+  "DepMap_ID": "ACH-002211",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-002216",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-002218",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-002222",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-002238",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-002241",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-002242",
+  "lineage": "blood",
+  "lineage_subtype": "hairy_cell_leukemia"
+}, {
+  "DepMap_ID": "ACH-002247",
+  "lineage": "blood",
+  "lineage_subtype": null
+}, {
+  "DepMap_ID": "ACH-002256",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-002258",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-002262",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-002267",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-002270",
+  "lineage": "blood",
+  "lineage_subtype": null
+}, {
+  "DepMap_ID": "ACH-002273",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-002274",
+  "lineage": "blood",
+  "lineage_subtype": "hairy_cell_leukemia"
+}, {
+  "DepMap_ID": "ACH-002275",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-002276",
+  "lineage": "blood",
+  "lineage_subtype": "acute_biphenotypic_leukemia"
+}, {
+  "DepMap_ID": "ACH-002286",
+  "lineage": "lung",
+  "lineage_subtype": "SCLC"
+}, {
+  "DepMap_ID": "ACH-002289",
+  "lineage": "blood",
+  "lineage_subtype": "NKC"
+}, {
+  "DepMap_ID": "ACH-002290",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-002299",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-002302",
+  "lineage": "blood",
+  "lineage_subtype": "CML"
+}, {
+  "DepMap_ID": "ACH-002308",
+  "lineage": "blood",
+  "lineage_subtype": "ALL"
+}, {
+  "DepMap_ID": "ACH-002314",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}, {
+  "DepMap_ID": "ACH-002316",
+  "lineage": "blood",
+  "lineage_subtype": null
+}, {
+  "DepMap_ID": "ACH-002317",
+  "lineage": "blood",
+  "lineage_subtype": "NKC"
+}, {
+  "DepMap_ID": "ACH-002337",
+  "lineage": "lung",
+  "lineage_subtype": "NSCLC"
+}, {
+  "DepMap_ID": "ACH-002339",
+  "lineage": "blood",
+  "lineage_subtype": "hairy_cell_leukemia"
+}, {
+  "DepMap_ID": "ACH-002390",
+  "lineage": "blood",
+  "lineage_subtype": "AML"
+}]
