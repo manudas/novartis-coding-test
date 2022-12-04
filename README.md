@@ -97,8 +97,8 @@ Here are some suggestions for further improvements. These are purely optional an
     * lineage
     * lineage_subtype
 * Enhance the tooltip by adding an extra ‘gene description’. This information can be queried from the Ensembl Web Service API. See the ‘description’ field.
-    * For KRAS: (https://rest.ensembl.org/lookup/id/ENSG00000133703?content-type=application/json "KRAS extra info")
-    * Or for TP53: (https://rest.ensembl.org/lookup/id/ENSG00000141510?content-type=application/json "TP53 extra info")
+    * For KRAS: https://rest.ensembl.org/lookup/id/ENSG00000133703?content-type=application/json
+    * Or for TP53: https://rest.ensembl.org/lookup/id/ENSG00000141510?content-type=application/json
 * Have an option to choose a different gene, i.e. ‘KRAS’ or ‘TP53’. Use an appropriate Material UI component for this.
     * Then also have an ‘update plot’ button to redraw the plot based on the gene selection.
     * The tooltip would need updating accordingly as well.
